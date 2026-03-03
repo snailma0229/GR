@@ -11,16 +11,16 @@
 
 <div align="center">
 
-[Hongxu Ma](mailto:hxma24@m.fudan.edu.cn)\*†&emsp;
-[Kai Tian](mailto:tiank311@gmail.com)\*&emsp;
-[Tao Zhang](mailto:zhangtao08@kuaishou.com)&emsp;
-[Xuefeng Zhang](mailto:zhangxuefeng06@kuaishou.com)&emsp;
-[Han Zhou](mailto:zhouhan@stu.sufe.edu.cn)&emsp;
-[Chenghou Jin](mailto:jinch24@m.fudan.edu.cn)&emsp;
-[Chunjie Chen](mailto:chencj517@gmail.com)&emsp;
-[Han Li](mailto:lihan08@kuaishou.com)&emsp;
-[Jihong Guan](mailto:jhguan@tongji.edu.cn)&emsp;
-[Shuigeng Zhou](mailto:sgzhou@fudan.edu.cn)‡
+Hongxu Ma\*†&emsp;
+Kai Tian\*&emsp;
+Tao Zhang&emsp;
+Xuefeng Zhang&emsp;
+Han Zhou&emsp;
+Chenghou Jin&emsp;
+Chunjie Chen&emsp;
+Han Li&emsp;
+Jihong Guan&emsp;
+Shuigeng Zhou‡
 
 🏫 Fudan University &emsp; 🏢 Kuaishou Technology &emsp; 🏫 Shanghai University of Finance and Economics &emsp; 🏫 Tongji University
 
